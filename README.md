@@ -40,7 +40,7 @@ Descriptions in the following list are from the repo descriptions or README.md f
 * [**alevere/openc2-slpf-icmp**](https://github.com/alevere/openc2-slpf-icmp) -- provide configuration management and to aid in the development of the first generation OpenC2 firewall profile.
  
 
-* [**alevere/openc2-python-slpf-iptables**](https://github.com/alevere/openc2-python-slpf-iptables) -- A python/apache implementation of the OpenC2 SLPF
+* [**alevere/openc2-python-slpf-iptables**](https://github.com/alevere/openc2-python-slpf-iptables) -- A python/apache implementation of the OpenC2 SLPF (Not currently OpenC2 v1.0 conformant).
  
 
 * [**davaya/ham**](https://github.com/davaya/ham) -- Hello-world Actuator for OpenC2 Messaging
