@@ -23,7 +23,7 @@ Descriptions in the following list are from the repo descriptions or README.md f
 
 * [**netcoredor/openc2-Powerwall-Connector**](https://github.com/netcoredor/openc2-Powerwall-Connector) -- Proof of Concept Tesla Powerwall 2.0 OpenC2 Connector (Not Affiliated with Tesla Corporation) 
 
-* [**newcontext-oss/openc2-aws-actuator**](https://github.com/newcontext-oss/openc2-aws-actuator) -- PoC Actuator to manage EC2 instances via OpenC2
+* [**newcontext-oss/openc2-aws-actuator**](https://github.com/newcontext-oss/openc2-aws-actuator) -- PoC Actuator to manage EC2 instances via OpenC2; updated to v1.0 conformance as of December 2019
 
 * [**romanojd/openc2-templates**](https://github.com/romanojd/openc2-templates) -- ??? (README.md doesn't really say clearly)
 
